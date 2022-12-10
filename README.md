@@ -1,19 +1,18 @@
-# Hey There!
+![made-with-HTML](https://img.shields.io/badge/Made%20with-Tailwind%20%20CSS-blue?style=for-the-badge)
+![Time taken](https://img.shields.io/badge/Time%20Taken-03Days-purple?style=for-the-badge&logo=Clockify)
+[![Demo](https://img.shields.io/badge/See%20Demo-Visit-orange?style=for-the-badge&logo=web)](https://vasu-vs-code-clone.netlify.app/)
 
-I am <h1 style="color:orange; text-shadow: 0 0 3px #FF0000">Srenivasulu Kalluru</h1> I have currently enrolled in **[iNeuron](https://ineuron.ai/ 'iNeuron')'s [Full Stack JavaScript Bootcamp 2.0](https://ineuron.ai/course/Full-Stack-JavaScript-Bootcamp-2.0 'FSJS 2.0')** course, which is undertaken By **[Hitesh Choudhary](https://hiteshchoudhary.com/ 'Hitesh Choudhary')** Sir.
+# Visual Studio Code Website Landing Page Clone
 
-### As Part of this course I am going to push a lot of assignment projects and article writings to Github.
+Visual Studio Code Website Landing Page Cloned using **Tailwind CSS** as part of **[iNeuron](https://ineuron.ai/ 'iNeuron')** assignment.
 
----
+### Skills Gained :
 
-To know more about me, you can check My Social Media Handles :
+- Learnt about **Tailwind CSS** Classes
+- To Make Websites Faster Using **Tailwind CSS**
+- To Use **Tailwind CSS** Utility Classes
+- Got an Idea on **Tailwind CSS** Core Concepts
 
-## [LinkedIn](https://www.linkedin.com/in/vasu-k-8069201b0)
+### Output :
 
-## [Twitter](https://twitter.com/vasuk24)
-
-## [Instagram](https://www.instagram.com/iam_vs24/)
-
-## [Facebook](https://www.facebook.com/vasu.kalluru24)
-
-## [Hashnode](https://hashnode.com/@VasuK24)
+[![Output Image](./output.png)](https://vasu-vs-code-clone.netlify.app/)
